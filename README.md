@@ -57,20 +57,43 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 ## Proyectos Destacados
 
-### [![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-repo) Book Club App
+### [Reading World](https://github.com/tu-usuario/reading-world)
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+
 Aplicación para compartir libros, reseñas y recomendaciones entre usuarios.
 
-[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo)
-— Herramienta desarrollada para administrar el contenido de diferentes sitios web.
+---
 
-[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
-— Proyecto colaborativo centrado en el desarrollo de funcionalidades y diseño de la interfaz.
+### [CRM para Gestión de Sitios Web](https://github.com/tu-usuario/crm-web)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+Herramienta desarrollada para administrar el contenido de diferentes sitios web.
+
+---
+
+### [Reading App](https://github.com/tu-usuario/reading-app)
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+Proyecto colaborativo centrado en el desarrollo de funcionalidades y diseño de la interfaz.
+
+---
   
-[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
-— Sitio web responsive dedicado al mundo de los videojuegos.
+### 🎮 [Video Game Universe](https://github.com/tu-usuario/video-game-universe)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+Sitio web responsive dedicado al mundo de los videojuegos, con diseño moderno y una experiencia optimizada para distintos dispositivos.
   
-[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
-— Proyecto web corporativo desarrollado con enfoque responsive.
 
 ---
 
