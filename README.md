@@ -114,6 +114,4 @@ Seguir creciendo como desarrolladora web, participando en proyectos que me permi
 
 ## Contacto
 
-* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saray-ortiz-cordero)
-* [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://tu-portfolio.com)
-* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:sarayortizcordero4@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saray-ortiz-cordero) [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://tu-portfolio.com) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:sarayortizcordero4@gmail.com)
