@@ -50,7 +50,7 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 * Windows
 * ![Badges](./assets/images/linux.svg)
-* ![Badges](./assets/images/anydesk.svg)
+* ![Anydesk](https://img.shields.io/badge/Anydesk-EF443B?style=for-the-badge&logo=anydesk&logoColor=white)
 * ![Badges](./assets/images/teamviewer.svg)
 
 ### Actualmente aprendiendo
