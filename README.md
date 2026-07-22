@@ -57,8 +57,8 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 ## Proyectos Destacados
 
-[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo)
-— Plataforma web para la gestión de libros, usuarios y contenido.
+[![Repo](https://img.shields.io/badge/Repo-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-repo) Book Club App
+Aplicación para compartir libros, reseñas y recomendaciones entre usuarios.
 
 [![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo)
 — Herramienta desarrollada para administrar el contenido de diferentes sitios web.
