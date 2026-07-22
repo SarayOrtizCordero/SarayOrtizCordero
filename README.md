@@ -23,39 +23,40 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 ### Desarrollo Web
 
-* HTML5
-* CSS3
-* JavaScript
-* TypeScript
-* PHP
-* Next.js
-* Bootstrap
-* SQL
-* MySQL
-* Supabase
+* ![Badges](./assets/images/html5.svg)
+* ![Badges](./assets/images/css.svg)
+* ![Badges](./assets/images/tailwindcss.svg)
+* ![Badges](./assets/images/javascript.svg)
+* ![Badges](./assets/images/typescript.svg)
+* ![Badges](./assets/images/php.svg)
+* ![Badges](./assets/images/nextdotjs.svg)
+* ![Badges](./assets/images/bootstrap.svg)
+* ![Badges](./assets/images/mysql.svg)
+* ![Badges](./assets/images/supabase.svg)
 
 ### Herramientas
 
-* Git
-* GitHub
-* Vercel
-* GitHub Pages
-* XAMPP
-* VirtualBox
-* Visual Studio Code
-* EmailJS
+* ![Badges](./assets/images/vsco.svg)
+* ![Badges](./assets/images/git.svg)
+* ![Badges](./assets/images/github.svg)
+* ![Badges](./assets/images/gitpages.svg)
+* ![Badges](./assets/images/vsco.svg)
+* ![Badges](./assets/images/claudecode.svg)
+* ![Badges](./assets/images/vercel.svg)
+* ![Badges](./assets/images/xampp.svg)
+* ![Badges](./assets/images/virtualbox.svg)
 
 ### Sistemas y Soporte Técnico
 
 * Windows
-* Linux
-* AnyDesk
-* TeamViewer
-* Quick Assist
+* ![Badges](./assets/images/linux.svg)
+* ![Badges](./assets/images/anydesk.svg)
+* ![Badges](./assets/images/teamviewer.svg)
 
 ### Actualmente aprendiendo
 
-* Python
+* ![Badges](./assets/images/python.svg)
+* ![Badges](./assets/images/n8n.svg)
 
 ---
 
