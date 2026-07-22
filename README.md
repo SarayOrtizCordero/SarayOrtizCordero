@@ -57,7 +57,7 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 ## Proyectos Destacados
 
-### [![Reading World](https://img.shields.io/badge/📚_Reading_World-181717?style=for-the-badge)](https://github.com/tu-usuario/reading-world))
+### [![Repositorio](https://img.shields.io/badge/Ver%20Repositorio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tu-usuario/reading-world)
 
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
