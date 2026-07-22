@@ -1,5 +1,4 @@
-## Hi there 👋
-# Soy Saray
+## Hola, Mi nombre es Saray
 
 ## Desarrolladora Web con interés en UI/UX
 
