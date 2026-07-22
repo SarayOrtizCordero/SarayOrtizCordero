@@ -57,11 +57,20 @@ Actualmente participo en proyectos reales para clientes y en proyectos colaborat
 
 ## Proyectos Destacados
 
-* **Reading World** — Plataforma web para la gestión de libros, usuarios y contenido.
-* **CRM para Gestión de Negocios** — Herramienta desarrollada para administrar el contenido de diferentes sitios web.
-* **Aplicación de Lecturas** — Proyecto colaborativo centrado en el desarrollo de funcionalidades y diseño de la interfaz.
-* **Video Game Universe** — Sitio web responsive dedicado al mundo de los videojuegos.
-* **Olympus Cars** — Proyecto web corporativo desarrollado con enfoque responsive.
+[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo)
+— Plataforma web para la gestión de libros, usuarios y contenido.
+
+[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo)
+— Herramienta desarrollada para administrar el contenido de diferentes sitios web.
+
+[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
+— Proyecto colaborativo centrado en el desarrollo de funcionalidades y diseño de la interfaz.
+  
+[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
+— Sitio web responsive dedicado al mundo de los videojuegos.
+  
+[![Proyecto](https://img.shields.io/badge/Repositorio-181717?style=for-the-badge)](https://github.com/tu-repo) 
+— Proyecto web corporativo desarrollado con enfoque responsive.
 
 ---
 
@@ -82,6 +91,6 @@ Seguir creciendo como desarrolladora web, participando en proyectos que me permi
 
 ## Contacto
 
-* LinkedIn
-* Portfolio
-* Correo electrónico
+* [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge)](https://www.linkedin.com/in/saray-ortiz-cordero)
+* [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge)](https://tu-portfolio.com)
+* [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge)](mailto:sarayortizcordero4@gmail.com)
