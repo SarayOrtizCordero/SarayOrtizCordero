@@ -1,6 +1,6 @@
 ## Hola, Mi nombre es Saray
 
-## Desarrolladora Web con interés en UI/UX
+## DESARROLLADORA WEB · SOPORTE TÉCNICO Y SISTEMAS
 
 Me apasiona desarrollar aplicaciones y sitios web que combinen funcionalidad, rendimiento y una experiencia de usuario intuitiva. Disfruto creando interfaces modernas, accesibles y responsive, cuidando tanto la calidad del código como los detalles del diseño.
 
