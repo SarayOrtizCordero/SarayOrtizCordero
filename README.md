@@ -6,6 +6,7 @@ Me apasiona desarrollar aplicaciones y sitios web que combinen funcionalidad, re
 
 Actualmente participo en proyectos reales para clientes y en proyectos colaborativos, donde continúo ampliando mis conocimientos y aplicando nuevas tecnologías para desarrollar soluciones funcionales, escalables y centradas en el usuario.
 
+![Banner](./assets/banner.svg)
 ---
 
 ## Sobre mí
